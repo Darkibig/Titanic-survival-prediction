@@ -21,8 +21,9 @@ The goal is to build a machine learning model that predicts whether a passenger 
 ├── README.md               # Project documentation
 ├── requirements.txt        # Python package dependencies
 └── titanic.ipynb           # Jupyter Notebook containing the full pipeline
+```
 
-Development Pipeline
+## 🏗️ Development Pipeline
 To guarantee robust evaluation and completely avoid data leakage, the pipeline follows a strict workflow:
 
 Exploratory Data Analysis & Feature Selection:
@@ -72,22 +73,14 @@ How to Run Locally
 
 Clone this repository:
 
-
-
 Bash
 
-
-
 git clone [https://github.com/Darkibig/
-Titanic-survival-prediction.git](https://github.com/Darkibig/Titanic-survival-prediction.git)
+Titanic-survival-prediction.git]
 
 Navigate to the project folder and install the required dependencies:
 
-
-
 Bash
-
-
 
 pip install -r requirements.txt
 
