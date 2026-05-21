@@ -69,19 +69,13 @@ Plaintext
     accuracy                           0.81       179
 
 
-How to Run Locally
+## 🚀 How to Run Locally
 
-Clone this repository:
-
-Bash
-
-git clone [https://github.com/Darkibig/
-Titanic-survival-prediction.git]
-
+1. Clone this repository:
+   ```bash
+   git clone [https://github.com/Darkibig/Titanic-survival-prediction.git](https://github.com/Darkibig/Titanic-survival-prediction.git)
 Navigate to the project folder and install the required dependencies:
 
 Bash
-
 pip install -r requirements.txt
-
 Launch Jupyter Notebook / VS Code, open titanic.ipynb, and run all cells.
